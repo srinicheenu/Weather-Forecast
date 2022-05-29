@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/card_bg_color.xml" value="0.1215" />
+        <entry key="app/src/main/res/drawable/ic_degree.xml" value="0.1215" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
+        <entry key="app/src/main/res/layout/activity_searchcity.xml" value="0.14814814814814814" />
+        <entry key="app/src/main/res/layout/activity_weather.xml" value="0.15648148148148147" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_weather.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/item_weather_list.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/sample.xml" value="0.13703703703703704" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.101" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.101" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
